@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 1920px;
+    height: 1080px;
+    background: linear-gradient(90deg, #3bbcf8, #f85ab1, #f5e452, #53c4f8);
+    background-size: 333%;
+}
+
+div:hover {
+    animation: animate 22s linear infinite;
+}
+
+@keyframes animate {
+
+    0%{
+        background-position: 0%;
+    }
+
+    100%{
+        background-position: 333%;
+    }
+
+}
