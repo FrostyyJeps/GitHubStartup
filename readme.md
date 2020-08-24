@@ -1,6 +1,6 @@
 **Hej og velkommen til GitHub.**
 
-Du kunne også bruge ~~Git*Lab*~~, men det er mere til *private* repos.
+Du kunne også bruge ~~GitLab~~, men det er mere til *private* repos.
 
 Her er et billede af en sød vovse.
 
